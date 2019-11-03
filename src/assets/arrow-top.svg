@@ -1,1 +1,10 @@
-<svg width="28" height="32" fill="none" xmlns="http://www.w3.org/2000/svg"><g opacity=".5" fill="#fff"><rect width="2.795" height="19.566" rx="1.398" transform="matrix(-.7006 .71356 -.7006 -.71356 28 30.006)"/><rect width="2.795" height="19.566" rx="1.398" transform="matrix(.7006 .71356 .7006 -.71356 0 30.006)"/><rect width="2.795" height="19.566" rx="1.398" transform="matrix(-.7006 .71356 -.7006 -.71356 28 13.962)"/><rect width="2.795" height="19.566" rx="1.398" transform="matrix(.7006 .71356 .7006 -.71356 0 13.962)"/></g></svg>
+<svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<path d="M18.6833 8.00669L33.3023 22.6262C34.2327 23.5562 34.2327 25.0639 33.3023 25.9935C32.3727 26.9231 30.865 26.9231 29.9355 25.9935L16.9999 13.0575L4.06474 25.9931C3.13477 26.9227 1.6272 26.9227 0.697603 25.9931C-0.232372 25.0635 -0.232372 23.5558 0.697603 22.6258L15.3168 8.00631C15.7819 7.54151 16.3907 7.30937 16.9998 7.30937C17.6092 7.30937 18.2185 7.54196 18.6833 8.00669Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="34" height="34" fill="white" transform="translate(0 34) rotate(-90)"/>
+</clipPath>
+</defs>
+</svg>
